@@ -1,0 +1,3 @@
+Hello, Royce Chua!
+Isn't this amazing!that we can write on text files
+using Python.
